@@ -13,7 +13,7 @@ extensions:
 noDependencies: true
 ---
 
-# MGGraph Intune Samples
+# MGGraph Intune Samples - Kevin Ten Eyck
 
 This repository of sample scripts demonstrates how to access Intune service resources.  There are many ways to access the Microsoft Graph through scripting languages and the samples in this repo provide examples that you are free to utilize.
 
